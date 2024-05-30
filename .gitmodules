@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:NewAge1979/cloudservice-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:NewAge1979/cloudservice-frontend.git
